@@ -1,12 +1,12 @@
 # Breakdown on Breaking In :fire:
 Contains files from the seminar Breakdown on Breaking In.
 
-## Raspberry Pi Portable Hacking Kit
-
 # Motivation :heart:
-###### To help newcomers in the field of cybersecurity to build a portable, cheap hacking kit that can be used to learn various linux hacking distritions for ethical hacking purposes.
+ To help my fellow batchmates undertand the cyber attacks in a much more practical way and also to demonstrate the cyber attacks live. 
+ 
+###### Description :smiley:
+2 attacks namely Wifi Deauthentication Attack and Tomcat Server Password Bruteforce Attack were demonstrated live.
 
-# Description :smiley:
 ###### This project is aimed towards newcomers in cyber field who find it difficult to install virtual machines due to various system constraints like limited RAM and other hardware resources. This project is equally powerful and similar to a full install of a hacking distribution on a virtualization software like Virtualbox or VMWare. It is extremely cheap as the whole project costs around 5k INR. It is also extremely portable as it takes up limited space in your daily backpack.
 
 # Screenshots
