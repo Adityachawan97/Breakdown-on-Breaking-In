@@ -3,13 +3,19 @@ Contains files from the seminar Breakdown on Breaking In.
 
 
 
+
+
 # Motivation :heart:
  To help my fellow batchmates undertand the cyber attacks in a much more practical way and also to demonstrate the cyber attacks live. 
  
  
  
+ 
+ 
 # Description :smiley:
 2 attacks namely Wifi Deauthentication Attack and Tomcat Server Password Bruteforce Attack were demonstrated live.
+
+
 
 
 
