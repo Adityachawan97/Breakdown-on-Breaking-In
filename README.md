@@ -1,7 +1,6 @@
-# Breakdown-on-Breaking-In
+# Breakdown on Breaking In :fire:
 Contains files from the seminar Breakdown on Breaking In.
 
-# Project Title :fire:
 ## Raspberry Pi Portable Hacking Kit
 
 # Motivation :heart:
