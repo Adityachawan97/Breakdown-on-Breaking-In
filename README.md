@@ -1,5 +1,5 @@
 # Breakdown on Breaking In :computer:
-Contains files from my seminar Breakdown on Breaking In.
+Contains files from my seminar.
 
 <br/>
 
