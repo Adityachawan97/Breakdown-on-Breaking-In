@@ -16,8 +16,9 @@ Contains files from my seminar.
 # Rpository files :mailbox_with_no_mail:
 1. Breakdown on Breaking In (PPT created for the seminar)
 2. attack steps (detailed walkthrough on the steps to take)
+3. response (participants feedback for the seminar)
 
 <br/>
 
 # Seminar Video :point_down:
-link for the recording of seminar: https://mega.nz/file/z1k2jS7B#xVsa6SzMx8-f210P_YV8FmzJYC64vw0k6STyacjtYms
+If you wish to watch the whole seminar, here is the link for the recording: https://mega.nz/file/z1k2jS7B#xVsa6SzMx8-f210P_YV8FmzJYC64vw0k6STyacjtYms
